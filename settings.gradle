@@ -1,0 +1,1 @@
+include ':app', ':rippereffects', ':gdx-backend-android', ':gdx-test', ':gdx'
